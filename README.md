@@ -1,44 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>JavaFX Calculator - README</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #1e90ff;
-        }
-        pre {
-            background-color: #eee;
-            padding: 15px;
-            border-radius: 8px;
-            overflow-x: auto;
-        }
-        code {
-            background-color: #f3f3f3;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        a {
-            color: #1e90ff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .footer {
-            margin-top: 50px;
-            font-size: 0.9rem;
-            color: #777;
-        }
-    </style>
-</head>
 <body>
 
 <h1>📱 JavaFX Calculator</h1>
