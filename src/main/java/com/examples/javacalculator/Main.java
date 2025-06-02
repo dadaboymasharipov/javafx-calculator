@@ -13,7 +13,7 @@ public class Main extends Application {
     private static final Logger log = LoggerFactory.getLogger(Main.class);
 
     @Override
-    public void start(Stage stage) throws IOException {
+    public void start(Stage stage){
         Calculator calculator = new Calculator();
 
         Scene scene = new Scene(calculator.createScene(), 300, 400);

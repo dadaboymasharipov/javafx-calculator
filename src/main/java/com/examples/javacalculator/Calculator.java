@@ -19,7 +19,7 @@ public class Calculator {
 
     private static final Logger log = LoggerFactory.getLogger(Calculator.class);
 
-    private TextField display = new TextField();
+    private final TextField display = new TextField();
     private String operator = "";
     private double num1 = 0.0;
 
@@ -122,7 +122,7 @@ public class Calculator {
         }
 
 
-        double num2 = 0.0;
+        double num2;
         try {
             num2 = Double.parseDouble(display.getText());
         } catch (NumberFormatException e) {
