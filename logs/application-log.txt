@@ -379,3 +379,4 @@
 13:21:44.459 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is clicked
 13:21:44.459 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 0.45 + 0.55 = 1.0
 13:21:44.461 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+13:35:07.266 [main] INFO  com.examples.javacalculator.Main - Application is starting
