@@ -1,0 +1,381 @@
+12:01:21.652 [main] INFO  com.examples.javacalculator.Main - Application is starting
+12:01:21.714 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - VBox with padding=10 and spacing=10 is created
+12:01:21.718 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - textField with editable=false and prefHeight=50 is created
+12:01:21.719 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - gridPane with Vgap=10 and Hgap=10 is created
+12:01:21.720 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@1b669899[styleClass=button]'9' is added
+12:01:21.721 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 9 is added to scene to col=0 and row=0
+12:01:21.721 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@7da496e2[styleClass=button]'8' is added
+12:01:21.721 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 8 is added to scene to col=1 and row=0
+12:01:21.721 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@ce3f0de[styleClass=button]'7' is added
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 7 is added to scene to col=2 and row=0
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@1eeaecec[styleClass=button]'/' is added
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button / is added to scene to col=3 and row=0
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@25cc91ba[styleClass=button]'6' is added
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 6 is added to scene to col=0 and row=1
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@7c061067[styleClass=button]'5' is added
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 5 is added to scene to col=1 and row=1
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@6ff07a39[styleClass=button]'4' is added
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 4 is added to scene to col=2 and row=1
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@263466a7[styleClass=button]'*' is added
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button * is added to scene to col=3 and row=1
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@67b4729a[styleClass=button]'3' is added
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 3 is added to scene to col=0 and row=2
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@2b7dd323[styleClass=button]'2' is added
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 2 is added to scene to col=1 and row=2
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@473045c7[styleClass=button]'1' is added
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 1 is added to scene to col=2 and row=2
+12:01:21.722 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@423412d8[styleClass=button]'+' is added
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button + is added to scene to col=3 and row=2
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@6d098a6[styleClass=button]'.' is added
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button . is added to scene to col=0 and row=3
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@43f1a794[styleClass=button]'0' is added
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 0 is added to scene to col=1 and row=3
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@62acc50[styleClass=button]'=' is added
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button = is added to scene to col=2 and row=3
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@646aac9f[styleClass=button]'-' is added
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button - is added to scene to col=3 and row=3
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@667d1d1c[styleClass=button]'C' is added
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button C is added to scene to col=0 and row=4
+12:01:21.723 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - buttons and TextField is added to VBox
+12:01:21.735 [JavaFX Application Thread] INFO  com.examples.javacalculator.Main - stage.show() is called
+12:02:12.456 [main] INFO  com.examples.javacalculator.Main - Application is starting
+12:02:12.514 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - VBox with padding=10 and spacing=10 is created
+12:02:12.517 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - textField with editable=false and prefHeight=50 is created
+12:02:12.519 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - gridPane with Vgap=10 and Hgap=10 is created
+12:02:12.520 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@4132d6ac[styleClass=button]'9' is added
+12:02:12.520 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 9 is added to scene to col=0 and row=0
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@36ecb4d3[styleClass=button]'8' is added
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 8 is added to scene to col=1 and row=0
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@42d90efe[styleClass=button]'7' is added
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 7 is added to scene to col=2 and row=0
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@4e668ef8[styleClass=button]'/' is added
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button / is added to scene to col=3 and row=0
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@57ffec97[styleClass=button]'6' is added
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 6 is added to scene to col=0 and row=1
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@4e69097[styleClass=button]'5' is added
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 5 is added to scene to col=1 and row=1
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@ec2d00b[styleClass=button]'4' is added
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 4 is added to scene to col=2 and row=1
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@74a98e65[styleClass=button]'*' is added
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button * is added to scene to col=3 and row=1
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@5c1a4f33[styleClass=button]'3' is added
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 3 is added to scene to col=0 and row=2
+12:02:12.521 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@6cc80e0f[styleClass=button]'2' is added
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 2 is added to scene to col=1 and row=2
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@7492d915[styleClass=button]'1' is added
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 1 is added to scene to col=2 and row=2
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@4c70bb44[styleClass=button]'+' is added
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button + is added to scene to col=3 and row=2
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@429d162e[styleClass=button]'C' is added
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button C is added to scene to col=0 and row=3
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@6e89d004[styleClass=button]'0' is added
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 0 is added to scene to col=1 and row=3
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@cb1e6b1[styleClass=button]'=' is added
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button = is added to scene to col=2 and row=3
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@4552c6f8[styleClass=button]'-' is added
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button - is added to scene to col=3 and row=3
+12:02:12.522 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - buttons and TextField is added to VBox
+12:02:12.534 [JavaFX Application Thread] INFO  com.examples.javacalculator.Main - stage.show() is called
+12:02:18.623 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action 8 is performed
+12:02:31.659 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action 7 is performed
+12:04:30.292 [main] INFO  com.examples.javacalculator.Main - Application is starting
+12:04:30.351 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - VBox with padding=10 and spacing=10 is created
+12:04:30.354 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - textField with editable=false and prefHeight=50 is created
+12:04:30.355 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - gridPane with Vgap=10 and Hgap=10 is created
+12:04:30.356 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@dd6399e[styleClass=button]'9' is added
+12:04:30.357 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 9 is added to scene to col=0 and row=0
+12:04:30.357 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@726636b6[styleClass=button]'8' is added
+12:04:30.357 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 8 is added to scene to col=1 and row=0
+12:04:30.357 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@674a187b[styleClass=button]'7' is added
+12:04:30.357 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 7 is added to scene to col=2 and row=0
+12:04:30.357 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@6ac1167f[styleClass=button]'/' is added
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button / is added to scene to col=3 and row=0
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@6e9c8163[styleClass=button]'6' is added
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 6 is added to scene to col=0 and row=1
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@2d8cc980[styleClass=button]'5' is added
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 5 is added to scene to col=1 and row=1
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@1a32858a[styleClass=button]'4' is added
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 4 is added to scene to col=2 and row=1
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@78221a5d[styleClass=button]'*' is added
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button * is added to scene to col=3 and row=1
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@72bf1ba3[styleClass=button]'3' is added
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 3 is added to scene to col=0 and row=2
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@39341cbd[styleClass=button]'2' is added
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 2 is added to scene to col=1 and row=2
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@37a4d0c4[styleClass=button]'1' is added
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 1 is added to scene to col=2 and row=2
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@5f3cc49f[styleClass=button]'+' is added
+12:04:30.358 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button + is added to scene to col=3 and row=2
+12:04:30.359 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@55d4bed8[styleClass=button]'C' is added
+12:04:30.359 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button C is added to scene to col=0 and row=3
+12:04:30.359 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@4c9c912b[styleClass=button]'0' is added
+12:04:30.359 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 0 is added to scene to col=1 and row=3
+12:04:30.359 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@5d2f5a8c[styleClass=button]'=' is added
+12:04:30.359 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button = is added to scene to col=2 and row=3
+12:04:30.359 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button Button@640e758a[styleClass=button]'-' is added
+12:04:30.359 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button - is added to scene to col=3 and row=3
+12:04:30.359 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - buttons and TextField is added to VBox
+12:04:30.370 [JavaFX Application Thread] INFO  com.examples.javacalculator.Main - stage.show() is called
+12:04:40.554 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action + is performed
+12:05:38.989 [main] INFO  com.examples.javacalculator.Main - Application is starting
+12:05:39.046 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - VBox with padding=10 and spacing=10 is created
+12:05:39.049 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - textField with editable=false and prefHeight=50 is created
+12:05:39.050 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - gridPane with Vgap=10 and Hgap=10 is created
+12:05:39.051 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@25d46809[styleClass=button]'9'' is added
+12:05:39.052 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '9' is added to scene to col=0 and row=0
+12:05:39.052 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@91b3e93[styleClass=button]'8'' is added
+12:05:39.052 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '8' is added to scene to col=1 and row=0
+12:05:39.052 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@6c696211[styleClass=button]'7'' is added
+12:05:39.052 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '7' is added to scene to col=2 and row=0
+12:05:39.052 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@6891e016[styleClass=button]'/'' is added
+12:05:39.052 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '/' is added to scene to col=3 and row=0
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@5934824a[styleClass=button]'6'' is added
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '6' is added to scene to col=0 and row=1
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@90bd059[styleClass=button]'5'' is added
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '5' is added to scene to col=1 and row=1
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@2ed54283[styleClass=button]'4'' is added
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '4' is added to scene to col=2 and row=1
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@49a3961f[styleClass=button]'*'' is added
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '*' is added to scene to col=3 and row=1
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@34f86bb3[styleClass=button]'3'' is added
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '3' is added to scene to col=0 and row=2
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@6326fc6d[styleClass=button]'2'' is added
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '2' is added to scene to col=1 and row=2
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@67e36bd0[styleClass=button]'1'' is added
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '1' is added to scene to col=2 and row=2
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@32a51a5d[styleClass=button]'+'' is added
+12:05:39.053 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '+' is added to scene to col=3 and row=2
+12:05:39.054 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@45f74a49[styleClass=button]'C'' is added
+12:05:39.054 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 'C' is added to scene to col=0 and row=3
+12:05:39.054 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@1166030e[styleClass=button]'0'' is added
+12:05:39.054 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '0' is added to scene to col=1 and row=3
+12:05:39.054 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@6da74719[styleClass=button]'='' is added
+12:05:39.054 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is added to scene to col=2 and row=3
+12:05:39.054 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@77cadf02[styleClass=button]'-'' is added
+12:05:39.054 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '-' is added to scene to col=3 and row=3
+12:05:39.054 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - buttons and TextField is added to VBox
+12:05:39.065 [JavaFX Application Thread] INFO  com.examples.javacalculator.Main - stage.show() is called
+12:05:55.002 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action '+' is performed
+12:06:01.917 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - '=' button is pressed
+12:06:01.917 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 78.0+22.0=100.0
+12:06:01.918 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+12:07:06.613 [main] INFO  com.examples.javacalculator.Main - Application is starting
+12:07:06.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - VBox with padding=10 and spacing=10 is created
+12:07:06.672 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - textField with editable=false and prefHeight=50 is created
+12:07:06.674 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - gridPane with Vgap=10 and Hgap=10 is created
+12:07:06.675 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@344cd02a[styleClass=button]'9'' is added
+12:07:06.675 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '9' is added to scene to col=0 and row=0
+12:07:06.675 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@4949324e[styleClass=button]'8'' is added
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '8' is added to scene to col=1 and row=0
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@3a28ca2f[styleClass=button]'7'' is added
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '7' is added to scene to col=2 and row=0
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@12b2a710[styleClass=button]'/'' is added
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '/' is added to scene to col=3 and row=0
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@2ec91eae[styleClass=button]'6'' is added
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '6' is added to scene to col=0 and row=1
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@2e92927b[styleClass=button]'5'' is added
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '5' is added to scene to col=1 and row=1
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@52975c34[styleClass=button]'4'' is added
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '4' is added to scene to col=2 and row=1
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@559afb51[styleClass=button]'*'' is added
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '*' is added to scene to col=3 and row=1
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@3340b322[styleClass=button]'3'' is added
+12:07:06.676 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '3' is added to scene to col=0 and row=2
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@9fbfe7b[styleClass=button]'2'' is added
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '2' is added to scene to col=1 and row=2
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@6165658c[styleClass=button]'1'' is added
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '1' is added to scene to col=2 and row=2
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@63275a82[styleClass=button]'+'' is added
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '+' is added to scene to col=3 and row=2
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@55c82c67[styleClass=button]'C'' is added
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 'C' is added to scene to col=0 and row=3
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@3960883[styleClass=button]'0'' is added
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '0' is added to scene to col=1 and row=3
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@49954478[styleClass=button]'='' is added
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is added to scene to col=2 and row=3
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@103ff482[styleClass=button]'-'' is added
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '-' is added to scene to col=3 and row=3
+12:07:06.677 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - buttons and TextField is added to VBox
+12:07:06.689 [JavaFX Application Thread] INFO  com.examples.javacalculator.Main - stage.show() is called
+12:07:13.551 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action '+' is performed
+12:07:21.815 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - '=' button is pressed
+12:07:21.816 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 88.0 + 12.0 = 100.0
+12:07:21.818 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+12:07:33.950 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action 'C' is performed
+12:07:44.417 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action '/' is performed
+12:07:48.665 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - '=' button is pressed
+12:07:48.667 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Divide by zero error!
+12:09:28.490 [main] INFO  com.examples.javacalculator.Main - Application is starting
+12:09:28.547 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - VBox with padding=10 and spacing=10 is created
+12:09:28.551 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - textField with editable=false and prefHeight=50 is created
+12:09:28.552 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - gridPane with Vgap=10 and Hgap=10 is created
+12:09:28.553 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@666337c1[styleClass=button]'9'' is added
+12:09:28.554 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '9' is added to scene to col=0 and row=0
+12:09:28.554 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@2f68fe8[styleClass=button]'8'' is added
+12:09:28.554 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '8' is added to scene to col=1 and row=0
+12:09:28.554 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@66e5a401[styleClass=button]'7'' is added
+12:09:28.554 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '7' is added to scene to col=2 and row=0
+12:09:28.554 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@633980ff[styleClass=button]'/'' is added
+12:09:28.554 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '/' is added to scene to col=3 and row=0
+12:09:28.554 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@e6cd329[styleClass=button]'6'' is added
+12:09:28.554 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '6' is added to scene to col=0 and row=1
+12:09:28.554 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@38d394c3[styleClass=button]'5'' is added
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '5' is added to scene to col=1 and row=1
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@735dfa74[styleClass=button]'4'' is added
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '4' is added to scene to col=2 and row=1
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@5c4cb298[styleClass=button]'*'' is added
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '*' is added to scene to col=3 and row=1
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@34d1d7a3[styleClass=button]'3'' is added
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '3' is added to scene to col=0 and row=2
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@10002876[styleClass=button]'2'' is added
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '2' is added to scene to col=1 and row=2
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@c12ee58[styleClass=button]'1'' is added
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '1' is added to scene to col=2 and row=2
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@35f34530[styleClass=button]'+'' is added
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '+' is added to scene to col=3 and row=2
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@f25e0e2[styleClass=button]'C'' is added
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 'C' is added to scene to col=0 and row=3
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@1ef72ae8[styleClass=button]'0'' is added
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '0' is added to scene to col=1 and row=3
+12:09:28.555 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@50c6740[styleClass=button]'='' is added
+12:09:28.556 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is added to scene to col=2 and row=3
+12:09:28.556 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@2a796814[styleClass=button]'-'' is added
+12:09:28.556 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '-' is added to scene to col=3 and row=3
+12:09:28.556 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - buttons and TextField is added to VBox
+12:09:28.567 [JavaFX Application Thread] INFO  com.examples.javacalculator.Main - stage.show() is called
+12:09:57.714 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action '/' is performed
+12:09:59.261 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - '=' button is pressed
+12:09:59.263 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Divide by zero error!
+12:10:02.096 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action '/' is performed
+12:10:03.212 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - '=' button is pressed
+12:10:03.215 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Divide by zero error!
+12:10:50.599 [main] INFO  com.examples.javacalculator.Main - Application is starting
+12:10:50.661 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - VBox with padding=10 and spacing=10 is created
+12:10:50.664 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - textField with editable=false and prefHeight=50 is created
+12:10:50.665 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - gridPane with Vgap=10 and Hgap=10 is created
+12:10:50.666 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@248c94c4[styleClass=button]'9'' is added
+12:10:50.667 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '9' is added to scene to col=0 and row=0
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@e918f2a[styleClass=button]'8'' is added
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '8' is added to scene to col=1 and row=0
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@78bcb05a[styleClass=button]'7'' is added
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '7' is added to scene to col=2 and row=0
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@4c6f7270[styleClass=button]'/'' is added
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '/' is added to scene to col=3 and row=0
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@93c31e7[styleClass=button]'6'' is added
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '6' is added to scene to col=0 and row=1
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@b560735[styleClass=button]'5'' is added
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '5' is added to scene to col=1 and row=1
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@16754865[styleClass=button]'4'' is added
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '4' is added to scene to col=2 and row=1
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@213e5429[styleClass=button]'*'' is added
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '*' is added to scene to col=3 and row=1
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@4965eae0[styleClass=button]'3'' is added
+12:10:50.668 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '3' is added to scene to col=0 and row=2
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@72313356[styleClass=button]'2'' is added
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '2' is added to scene to col=1 and row=2
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@4e3b7b15[styleClass=button]'1'' is added
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '1' is added to scene to col=2 and row=2
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@1d77e1e7[styleClass=button]'+'' is added
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '+' is added to scene to col=3 and row=2
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@7ba33a43[styleClass=button]'C'' is added
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 'C' is added to scene to col=0 and row=3
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@730de2[styleClass=button]'0'' is added
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '0' is added to scene to col=1 and row=3
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@15852d2a[styleClass=button]'='' is added
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is added to scene to col=2 and row=3
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@375f9ea4[styleClass=button]'-'' is added
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '-' is added to scene to col=3 and row=3
+12:10:50.669 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - buttons and TextField is added to VBox
+12:10:50.681 [JavaFX Application Thread] INFO  com.examples.javacalculator.Main - stage.show() is called
+12:11:02.770 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action '/' is performed
+12:11:03.919 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - '=' button is pressed
+12:11:03.921 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Divide by zero error! 45.0 / 0
+12:12:48.533 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action '*' is performed
+12:12:49.948 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - '=' button is pressed
+12:12:49.949 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 54.0 * 5.0 = 270.0
+12:12:49.951 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+12:12:52.767 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action '*' is performed
+12:12:54.932 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - '=' button is pressed
+12:12:54.933 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 270.0 * 5.0 = 1350.0
+12:12:54.935 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+12:12:58.117 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action '*' is performed
+12:12:59.215 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - '=' button is pressed
+12:12:59.216 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 1350.0 * 2.0 = 2700.0
+12:12:59.218 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+12:13:07.733 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Action '+' is performed
+12:13:09.648 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - '=' button is pressed
+12:13:09.649 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 2700.0 + 10.0 = 2710.0
+12:13:09.650 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+12:15:26.805 [main] INFO  com.examples.javacalculator.Main - Application is starting
+12:15:26.868 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - VBox with padding=10 and spacing=10 is created
+12:15:26.871 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - textField with editable=false and prefHeight=50 is created
+12:15:26.872 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - gridPane with Vgap=10 and Hgap=10 is created
+12:15:26.874 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@4e07f936[styleClass=button]'9'' is added
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '9' is added to scene to col=0 and row=0
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@3d20b67f[styleClass=button]'8'' is added
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '8' is added to scene to col=1 and row=0
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@437f5065[styleClass=button]'7'' is added
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '7' is added to scene to col=2 and row=0
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@68f4f98a[styleClass=button]'/'' is added
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '/' is added to scene to col=3 and row=0
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@553f8def[styleClass=button]'6'' is added
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '6' is added to scene to col=0 and row=1
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@6d945a79[styleClass=button]'5'' is added
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '5' is added to scene to col=1 and row=1
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@5451d3d6[styleClass=button]'4'' is added
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '4' is added to scene to col=2 and row=1
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@1b26487f[styleClass=button]'*'' is added
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '*' is added to scene to col=3 and row=1
+12:15:26.875 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@32dfee01[styleClass=button]'3'' is added
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '3' is added to scene to col=0 and row=2
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@7d572db1[styleClass=button]'2'' is added
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '2' is added to scene to col=1 and row=2
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@27428eae[styleClass=button]'1'' is added
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '1' is added to scene to col=2 and row=2
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@e0e4f89[styleClass=button]'+'' is added
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '+' is added to scene to col=3 and row=2
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@43ec17af[styleClass=button]'C'' is added
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 'C' is added to scene to col=0 and row=3
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@71290c6[styleClass=button]'0'' is added
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '0' is added to scene to col=1 and row=3
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@34965974[styleClass=button]'='' is added
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is added to scene to col=2 and row=3
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - action to button 'Button@48183a68[styleClass=button]'-'' is added
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '-' is added to scene to col=3 and row=3
+12:15:26.876 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - buttons and TextField is added to VBox
+12:15:26.888 [JavaFX Application Thread] INFO  com.examples.javacalculator.Main - stage.show() is called
+12:42:08.695 [main] INFO  com.examples.javacalculator.Main - Application is starting
+12:42:14.749 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '/' is clicked
+12:42:17.197 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is clicked
+12:42:17.200 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 987.0 / 3.0 = 329.0
+12:42:17.202 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+12:42:54.828 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '*' is clicked
+12:42:56.061 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is clicked
+12:42:56.061 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 329.01 * 2.0 = 658.02
+12:42:56.062 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+12:42:58.879 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 'C' is clicked
+13:20:26.309 [main] INFO  com.examples.javacalculator.Main - Application is starting
+13:20:34.965 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '+' is clicked
+13:20:35.996 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is clicked
+13:20:35.999 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 98.0 + 2.0 = 100.0
+13:20:36.000 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+13:20:47.678 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '+' is clicked
+13:20:51.078 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is clicked
+13:20:51.079 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 100.02 + 0.5 = 100.52
+13:20:51.080 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+13:20:54.146 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '+' is clicked
+13:20:57.394 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is clicked
+13:20:57.395 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 100.52 + 0.9 = 101.42
+13:20:57.397 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+13:20:59.545 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button 'C' is clicked
+13:21:04.495 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '+' is clicked
+13:21:11.460 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is clicked
+13:21:11.461 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 55.0 + 45.5 = 100.5
+13:21:11.462 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
+13:21:19.111 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '/' is clicked
+13:21:20.526 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is clicked
+13:21:20.529 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Divide by zero error! 100.5 / 0
+13:21:42.044 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '+' is clicked
+13:21:44.459 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - Button '=' is clicked
+13:21:44.459 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - 0.45 + 0.55 = 1.0
+13:21:44.461 [JavaFX Application Thread] INFO  c.examples.javacalculator.Calculator - result is displayed
